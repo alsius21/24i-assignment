@@ -1,6 +1,7 @@
 export default interface Movie {
-    id:number,
+    id: number,
     title: string,
+    year: string,
     duration: string,
     genres: string[],
     director: string,
