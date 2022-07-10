@@ -1,6 +1,6 @@
-import Movie from "./movie";
+import Movie from './movie';
 
 export default interface MovieList {
-    title: string,
-    items: Movie[],
+  title: string;
+  items: Movie[];
 }
