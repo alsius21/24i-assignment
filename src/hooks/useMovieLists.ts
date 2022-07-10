@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
+import MovieList from "../models/movieList";
 import MoviesService from "../services/movies-service";
 
-export default function useMovieLists() {
-    const [list, setList] = useState([])
+
+
+export default function useMovieLists(): [MovieList[], boolean ] {
+    const [list, setList] = useState([] as MovieList[])
     const [isLoading, setIsLoading] = useState(false)
-
-
 
     useEffect(() => {
         let isMounted = true
@@ -16,7 +17,6 @@ export default function useMovieLists() {
                     if (isMounted) {
                         setList(films)
                     }
-
                 })
                 .catch(_ => console.warn('Could not get films'))
                 .finally(() => {
@@ -24,9 +24,7 @@ export default function useMovieLists() {
                         setIsLoading(false)
                     }
                 })
-
         }
-
         if (isMounted && !isLoading) {
             fetchMoviesList()
         }
