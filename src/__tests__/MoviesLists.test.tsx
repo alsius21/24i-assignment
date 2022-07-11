@@ -1,8 +1,9 @@
 import React from 'react';
 import { act, create } from 'react-test-renderer';
-import CarouselContainer from '../components/Carousel';
-import Carousel from '../../src/components/Carousel/Carousel';
+
+import Carousel from '../components/Carousel/Carousel';
 import Movie from '../models/movie';
+import MoviesLists from '../screens/MoviesLists';
 
 let mockMoviesLists;
 let mockIsLoadingLists;
@@ -31,7 +32,7 @@ describe('Testing useMovieLists', () => {
 
     let tree;
     act(() => {
-      tree = create(<CarouselContainer />);
+      tree = create(<MoviesLists />);
     });
     const { root } = tree;
     expect(root.findAllByType(Carousel).length).toBe(1);

@@ -1,3 +1,3 @@
-import CarouselContainer from './CarouselContainer';
+import CarouselContainer from './Carousel';
 
 export default CarouselContainer;

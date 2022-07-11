@@ -1,12 +1,18 @@
 import React from 'react';
-import { View } from 'react-native';
-import useMovieLists from '../../hooks/useMovieLists';
-import Carousel from './Carousel';
+import { View, StyleSheet } from 'react-native';
+import Carousel from '../components/Carousel/Carousel';
+import useMovieLists from '../hooks/useMovieLists';
 
-function CarouselContainer() {
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+  },
+});
+
+function MoviesLists() {
   const [movieLists] = useMovieLists();
   return (
-    <View>
+    <View style={styles.container}>
       {movieLists.map(list => (
         <Carousel
           key={list.title}
@@ -22,4 +28,4 @@ function CarouselContainer() {
   );
 }
 
-export default CarouselContainer;
+export default MoviesLists;
