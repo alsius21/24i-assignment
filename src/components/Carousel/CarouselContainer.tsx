@@ -9,10 +9,12 @@ function CarouselContainer() {
     <View>
       {movieLists.map(list => (
         <Carousel
+          key={list.title}
           title={list.title}
           items={list.items.map(movie => ({
             title: movie.title,
             assetUrl: movie.posterUrl,
+            id: movie.id,
           }))}
         />
       ))}
