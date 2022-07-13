@@ -32,7 +32,7 @@ describe('Testing useMovieLists', () => {
 
     let tree;
     act(() => {
-      tree = create(<MoviesLists />);
+      tree = create(<MoviesLists navigation={{ push: jest.fn() }} />);
     });
     const { root } = tree;
     expect(root.findAllByType(Carousel).length).toBe(1);
