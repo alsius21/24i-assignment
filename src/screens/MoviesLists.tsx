@@ -2,6 +2,7 @@ import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import Carousel from '../components/Carousel/Carousel';
 import useMovieLists from '../hooks/useMovieLists';
+import Movie from '../models/movie';
 
 const styles = StyleSheet.create({
   container: {
@@ -9,12 +10,19 @@ const styles = StyleSheet.create({
   },
 });
 
-function MoviesLists() {
+function MoviesLists({ navigation }) {
   const [movieLists] = useMovieLists();
+  const handleSelectMovie = (listIndex: number, movieId: number) => {
+    const movie: Movie = movieLists[listIndex].items.find(
+      mov => mov.id === movieId,
+    );
+    navigation.push('Movie', { ...movie });
+  };
   return (
     <View style={styles.container}>
-      {movieLists.map(list => (
+      {movieLists.map((list, index) => (
         <Carousel
+          onClickCover={(id: number) => handleSelectMovie(index, id)}
           key={list.title}
           title={list.title}
           items={list.items.map(movie => ({
