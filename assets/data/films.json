@@ -1,0 +1,324 @@
+{
+    "carousels": [
+        {
+            "title": "Pick of the month",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Beetlejuice",
+                    "year": "1988",
+                    "duration": "92",
+                    "genres": [
+                        "Comedy",
+                        "Fantasy"
+                    ],
+                    "director": "Tim Burton",
+                    "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
+                    "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/3be93e116eea0c595d82c0e80ea234f4_815eafd7-1092-4408-a278-b3497af72254_480x.progressive.jpg?v=1573652484"
+                },
+                {
+                    "id": 2,
+                    "title": "The Cotton Club",
+                    "year": "1984",
+                    "duration": "127",
+                    "genres": [
+                        "Crime",
+                        "Drama",
+                        "Music"
+                    ],
+                    "director": "Francis Ford Coppola",
+                    "actors": "Richard Gere, Gregory Hines, Diane Lane, Lonette McKee",
+                    "plot": "The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/lf_1dd60351-903e-4e42-8908-d12c7ede1ec3_480x.progressive.jpg?v=1626206006"
+                },
+                {
+                    "id": 3,
+                    "title": "The Shawshank Redemption",
+                    "year": "1994",
+                    "duration": "142",
+                    "genres": [
+                        "Crime",
+                        "Drama"
+                    ],
+                    "director": "Frank Darabont",
+                    "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+                    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/f91d843ec3dff2aa1904114beaf53d56_281b69ef-9885-40af-a0ad-3a99b5082196_480x.progressive.jpg?v=1573585406"
+                },
+                {
+                    "id": 4,
+                    "title": "Crocodile Dundee",
+                    "year": "1986",
+                    "duration": "97",
+                    "genres": [
+                        "Adventure",
+                        "Comedy"
+                    ],
+                    "director": "Peter Faiman",
+                    "actors": "Paul Hogan, Linda Kozlowski, John Meillon, David Gulpilil",
+                    "plot": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/crocodiledundee24x36_e9665dff-7abf-4b09-92d8-6aa53d9cc76a_480x.progressive.jpg?v=1616792455"
+                },
+                {
+                    "id": 5,
+                    "title": "Valkyrie",
+                    "year": "2008",
+                    "duration": "121",
+                    "genres": [
+                        "Drama",
+                        "History",
+                        "Thriller"
+                    ],
+                    "director": "Bryan Singer",
+                    "actors": "Tom Cruise, Kenneth Branagh, Bill Nighy, Tom Wilkinson",
+                    "plot": "A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/valkyrie.intl.den.ar_480x.progressive.jpg?v=1593469448"
+                },
+                {
+                    "id": 6,
+                    "title": "Ratatouille",
+                    "year": "2007",
+                    "duration": "111",
+                    "genres": [
+                        "Animation",
+                        "Comedy",
+                        "Family"
+                    ],
+                    "director": "Brad Bird, Jan Pinkava",
+                    "actors": "Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy",
+                    "plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/8369e977f336e08d60913e0b5c22057b_edf92f4d-b32b-4eab-b820-b948058fc6fc_480x.progressive.jpg?v=1573593631"
+                },
+                {
+                    "id": 7,
+                    "title": "City of God",
+                    "year": "2002",
+                    "duration": "130",
+                    "genres": [
+                        "Crime",
+                        "Drama"
+                    ],
+                    "director": "Fernando Meirelles, Kátia Lund",
+                    "actors": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva",
+                    "plot": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/cidade-de-deus_62200b2d_480x.progressive.jpg?v=1604089082"
+                },
+                {
+                    "id": 8,
+                    "title": "Memento",
+                    "year": "2000",
+                    "duration": "113",
+                    "genres": [
+                        "Mystery",
+                        "Thriller"
+                    ],
+                    "director": "Christopher Nolan",
+                    "actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
+                    "plot": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/c15059527ae4d9c832dbb365b418369e_7c2bb4af-8bcd-428c-8904-27ddc512a45c_480x.progressive.jpg?v=1573594896"
+                }
+            ]
+        },
+        {
+            "title": "Recommended",
+            "items": [
+                {
+                    "id": 134,
+                    "title": "Ex Machina",
+                    "year": "2015",
+                    "duration": "108",
+                    "genres": [
+                        "Drama",
+                        "Mystery",
+                        "Sci-Fi"
+                    ],
+                    "director": "Alex Garland",
+                    "actors": "Domhnall Gleeson, Corey Johnson, Oscar Isaac, Alicia Vikander",
+                    "plot": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/2cf4a90563a8842f5174580ca8800ad6_058eda06-9e7a-433b-8e84-b29aaaaf10b9_480x.progressive.jpg?v=1573618718"
+                },
+                {
+                    "id": 136,
+                    "title": "Shogun",
+                    "year": "1980",
+                    "duration": "60",
+                    "genres": [
+                        "Adventure",
+                        "Drama",
+                        "History"
+                    ],
+                    "director": "N/A",
+                    "actors": "Richard Chamberlain, Toshirô Mifune, Yôko Shimada, Furankî Sakai",
+                    "plot": "A English navigator becomes both a player and pawn in the complex political games in feudal Japan.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ea9734f8dbafaa0604c217a8dbc937b0_478706d3-40cd-483e-8668-b6ec4c3e7efe_480x.progressive.jpg?v=1573618955"
+                },
+                {
+                    "id": 137,
+                    "title": "Spotlight",
+                    "year": "2015",
+                    "duration": "128",
+                    "genres": [
+                        "Biography",
+                        "Crime",
+                        "Drama"
+                    ],
+                    "director": "Tom McCarthy",
+                    "actors": "Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",
+                    "plot": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/1bef1eabdb0770135ce72747c3ee458d_e9382515-fb72-4819-9878-1a187bf2ea38_480x.progressive.jpg?v=1573613864"
+                },
+                {
+                    "id": 138,
+                    "title": "Vertigo",
+                    "year": "1958",
+                    "duration": "128",
+                    "genres": [
+                        "Mystery",
+                        "Romance",
+                        "Thriller"
+                    ],
+                    "director": "Alfred Hitchcock",
+                    "actors": "James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore",
+                    "plot": "A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/a195e25ea455b03646e0c7d9ef3665dd_33937a92-4d5f-464b-b2c4-249e8d7795a6_480x.progressive.jpg?v=1573618880"
+                },
+                {
+                    "id": 139,
+                    "title": "Whiplash",
+                    "year": "2014",
+                    "duration": "107",
+                    "genres": [
+                        "Drama",
+                        "Music"
+                    ],
+                    "director": "Damien Chazelle",
+                    "actors": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist",
+                    "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/whiplash.intl.ar_480x.progressive.jpg?v=1614358681"
+                },
+                {
+                    "id": 141,
+                    "title": "Hotel Rwanda",
+                    "year": "2004",
+                    "duration": "121",
+                    "genres": [
+                        "Drama",
+                        "History",
+                        "War"
+                    ],
+                    "director": "Terry George",
+                    "actors": "Xolani Mali, Don Cheadle, Desmond Dube, Hakeem Kae-Kazim",
+                    "plot": "Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/f53c2ce83ba4b621d92a4dda3fa4d420_868bcb14-9974-4a77-98e9-9a4e13cdc1a2_480x.progressive.jpg?v=1573651310"
+                },
+                {
+                    "id": 142,
+                    "title": "The Martian",
+                    "year": "2015",
+                    "duration": "144",
+                    "genres": [
+                        "Adventure",
+                        "Drama",
+                        "Sci-Fi"
+                    ],
+                    "director": "Ridley Scott",
+                    "actors": "Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels",
+                    "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/0fb8ec8f53a7935c477b52d9d16ed969_93ca81ec-5bf9-4be6-92b3-05b491e28d69_480x.progressive.jpg?v=1573613674"
+                },
+                {
+                    "id": 143,
+                    "title": "To Kill a Mockingbird",
+                    "year": "1962",
+                    "duration": "129",
+                    "genres": [
+                        "Crime",
+                        "Drama"
+                    ],
+                    "director": "Robert Mulligan",
+                    "actors": "Gregory Peck, John Megna, Frank Overton, Rosemary Murphy",
+                    "plot": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/e4c979c27cd00836b277f421201f3f8e_350d2d0b-7185-4ea8-90af-a26694ce7d5e_480x.progressive.jpg?v=1573594851"
+                },
+                {
+                    "id": 144,
+                    "title": "The Hateful Eight",
+                    "year": "2015",
+                    "duration": "187",
+                    "genres": [
+                        "Crime",
+                        "Drama",
+                        "Mystery"
+                    ],
+                    "director": "Quentin Tarantino",
+                    "actors": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",
+                    "plot": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/hatefuleight.24x36_480x.progressive.jpg?v=1615396690"
+                },
+                {
+                    "id": 145,
+                    "title": "A Separation",
+                    "year": "2011",
+                    "duration": "123",
+                    "genres": [
+                        "Drama",
+                        "Mystery"
+                    ],
+                    "director": "Asghar Farhadi",
+                    "actors": "Peyman Moaadi, Leila Hatami, Sareh Bayat, Shahab Hosseini",
+                    "plot": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/nader_and_simin_ver9_480x.progressive.jpg?v=1594146100"
+                },
+                {
+                    "id": 146,
+                    "title": "The Big Short",
+                    "year": "2015",
+                    "duration": "130",
+                    "genres": [
+                        "Biography",
+                        "Comedy",
+                        "Drama"
+                    ],
+                    "director": "Adam McKay",
+                    "actors": "Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert",
+                    "plot": "Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/195a26b63b40cc8850d34528f96aa4e2_8de2a1a0-e2f0-4760-a45e-f78066d571de_480x.progressive.jpg?v=1573588896"
+                }
+            ]
+        },
+        {
+            "title": "Recently watched",
+            "items": [
+                {
+                    "id": 129,
+                    "title": "The Hobbit: An Unexpected Journey",
+                    "year": "2012",
+                    "duration": "169",
+                    "genres": [
+                        "Adventure",
+                        "Fantasy"
+                    ],
+                    "director": "Peter Jackson",
+                    "actors": "Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",
+                    "plot": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/72384fde84daabfa7c1e3ff35b4ea061_3f4d7103-9e62-4914-8568-df082e6281e0_480x.progressive.jpg?v=1573587424"
+                },
+                {
+                    "id": 130,
+                    "title": "The Great Gatsby",
+                    "year": "2013",
+                    "duration": "143",
+                    "genres": [
+                        "Drama",
+                        "Romance"
+                    ],
+                    "director": "Baz Luhrmann",
+                    "actors": "Lisa Adam, Frank Aldridge, Amitabh Bachchan, Steve Bisley",
+                    "plot": "A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.",
+                    "posterUrl": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/greatgatsby.linen_480x.progressive.jpg?v=1634763979"
+                }
+            ]
+        }
+    ]
+}
