@@ -7,7 +7,9 @@ describe('Testing Carousel', () => {
   it('should display title when no item is provided', () => {
     let tree;
     act(() => {
-      tree = create(<Carousel items={[]} title="Hello" />);
+      tree = create(
+        <Carousel onClickCover={jest.fn()} items={[]} title="Hello" />,
+      );
     });
     const { root } = tree;
     expect(root.findByType(Text)).toBeTruthy();
@@ -17,6 +19,7 @@ describe('Testing Carousel', () => {
     act(() => {
       tree = create(
         <Carousel
+          onClickCover={jest.fn()}
           items={[{ assetUrl: 'fakeUrl', title: 'Hello', id: 1 }]}
           title="Hello"
         />,
