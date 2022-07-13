@@ -3,10 +3,12 @@ import { View, StyleSheet } from 'react-native';
 import Carousel from '../components/Carousel/Carousel';
 import useMovieLists from '../hooks/useMovieLists';
 import Movie from '../models/movie';
+import { themes } from '../utils/styles';
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: themes.dark.base_background_color,
   },
 });
 
